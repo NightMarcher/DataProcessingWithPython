@@ -1,0 +1,71 @@
+Adult ABD,c5ddb1fa-704b-31b2-9510-2e75bdd16fee
+Adult Cardiac,5cbcf239-7c62-3bb9-bb15-c24429d60d84
+GYN,48957ed3-634a-3c70-9444-9de798b771df
+OB1,b2c27741-5fc1-3bd1-a097-90e0cbc95a11
+OB2/3,015b044d-b456-375f-86f1-280987bbc6d1
+Fetal Cardiac,bc00dae4-8072-39f1-bd6d-4d011f6392b6
+Kidney,7bcd41db-96d1-3b94-af58-b951d03951eb
+Prostate,34882457-b208-3dba-9aa4-49cb38f0aff9
+Thyroid,4265c5bb-fed8-3a25-a055-e24823af3bb0
+Breast,584bf3d1-0997-3e56-b292-029141cb6c7e
+Superficial,b1dfe04a-aae3-351b-a97e-e5db10bb0ded
+Skin,4f4826e1-c866-356e-8840-ae27a87218ac
+Carotid,4fca2080-637e-3d46-8e20-da60296b76bf
+LEA,9e72c8fb-ee5a-3f55-a7c5-594cc7688471
+LEV,f3dc8b1e-dd6e-3aab-ba5a-ed0c19c93538
+UEA,767b086e-ff7f-3335-bf1f-3a2d8762431c
+UEV,8da874aa-4c0d-3bb6-8815-4cb941a1be1a
+Ped-ABD,59379b15-2f29-367f-b37e-e18e1a54d8a0
+Ped-Cardiac,95e046e2-da9d-3559-9268-182cdf3b0b2f
+Urology,9e958cfe-edae-3af9-9725-65b2a16cfb42
+Testicle,daac4589-26be-36b2-9e04-25a1602c8119
+Orthopediac,a5b2cd83-0438-379b-a793-8d2b16a922a3
+MSK,e4a15893-106f-39e6-8e93-2cfcae9a33d8
+Nerve,fa59fe97-b595-3dc1-a8bf-ddd0abfbc116
+ICU,0a5b2a40-e662-3ba8-8584-456836d492ef
+TCD,574c907f-bd8d-3095-a8c8-cacd2cc212ef
+EM FAST,468f6b14-b570-3a35-a3c3-773b9dc0fa3f
+Vet Cardiac,ce4d2064-1856-3882-aac7-7c9f06c0742c
+Vet ABD,18809560-72a6-35e6-8bba-17e1d94fd72b
+Vet OB,18b6a7d4-d723-337e-8f4b-9f7ac435f2e8
+Vet Reproduction,4ce6b92a-bc92-32fa-bad6-d703f84a5eab
+Vet MSK,5596abf9-5ef6-36e7-ae21-74dfbdac803b
+Vet Vascular,e9707e42-f153-375d-91fa-40ad89fe31ea
+Brachial Plexus,299bbb58-dc4b-360f-8d77-98d87aa464c5
+Femoral N,d54dcc4f-e4db-3618-b512-c7b0166d1f31
+Sciatic N,a1f1c770-bed9-3e33-8a40-99d1fc6908d8
+Sciatic N(Deep),ec3fb899-099a-3c6e-b47f-f749e4c09a3d
+Epidural & Spinal,33180bde-62bf-3bbf-81ea-eeb64f575e6d
+Obturatorius N,fe59675b-76fb-3dd5-9548-38b27b579919
+General N,c5374a18-c392-36b7-8745-cd96aa0824b3
+CVC,3b20475d-62d0-3a9f-986c-d4e3883d6e0a
+PICC,1e1890d6-d43e-3db1-b1f4-36cf58df10ac
+Lung,733aa932-8128-3410-b2e2-e3969d92d963
+Deep Vein,93abb2b0-09f0-3875-a66e-30879c34aa64
+TAP,ba116cb7-3c96-3948-a3b5-27eef400ef3f
+Radial A.,95a841be-14be-33b3-a8f9-5021dc548f0d
+ABD-Difficult,a6fbc477-e583-317f-85c0-c24ffb4f43bd
+CAR-Difficult,1a388db1-fa6a-3f9a-bbef-532504d61a8d
+EM ABD,5987d2db-d9aa-3847-a28d-d1f7dfd03c3e
+EM OB,4232f69d-7fd8-3a7e-bca8-dbcfcbab3cdb
+EM Vascular,af403628-c277-3805-b9e4-93370b6051b3
+EM Superficial,82f01657-b724-34d2-97f4-d0bacf8a3177
+Neonatal Head,c464abb2-bc81-313a-86e1-a02c58ce339b
+Neonatal Cardiac,4877d000-6471-3b98-b7c5-98e5685ce5f0
+Neonatal ABD,c821cde9-4e2f-351b-8a60-9e14be95400b
+Nerve 0-3cm,a9c820b9-2b0c-34e3-bf99-a406256b126d
+Nerve 3-5cm,1c016b54-01db-37ca-985e-144a45c13bd0
+Nerve 4-8cm,684e3eaa-cf2d-354e-ab3b-b6ca4d1f5f2c
+MSK 0-3cm,c13eecb9-17ce-320d-b8c4-416c699dbfae
+MSK 3-5cm,670b8fb8-9d85-34e6-8d10-8216d3849b36
+MSK 4-8cm,f45fd6d8-5574-3e20-b521-29d3ce5f496a
+Vascular Access,811e8c6d-10a3-395a-b0fc-d52396540edb
+TEE,940b92af-dc98-3b5b-9203-4f464b8405a5
+Head,d697eee3-432c-3e56-a9dd-5643d55cf5ce
+Neck,13deb0d7-f489-382a-855c-75479235f192
+Lumbar,33180bde-62bf-3bbf-81ea-eeb64f575e6d
+Joint,86999019-a15f-3e07-a203-dbeb640f8230
+Plevis,7ac34d5d-89ee-336f-922b-4bc61fd200b5
+C&A Wall,9d8d5505-c864-3166-a058-59deb8785bc6
+Hand&Foot,822b74b6-00c3-3c07-b2d0-a02655c39249
+SysTest,8a730d16-4fb7-3d2a-9203-2625a12c26d1
